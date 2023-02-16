@@ -1,0 +1,60 @@
+// here m,n,o are variables
+var m=1;
+var n=2;
+var o=3;
+
+console.log(m)
+
+console.log(n)
+
+console.log(o)
+
+console.log(m+n+o)
+
+
+// here m,n,l are variables
+var m="mango"
+var n="apple"
+var l="orange"
+
+console.log(m)
+
+console.log(n)
+
+console.log(l)
+
+console.log(1+m)
+
+console.log(1+m+n)
+
+console.log(3+m+n+o)
+
+console.log(3+m+n+l)
+
+
+// here p,q,r are variables
+var p=1
+var q=2
+var r=3
+
+console.log(r)
+
+console.log(p*q*r)
+
+// here fruits are using for loop in
+var fruits=["orange","mango","beetroot"]
+
+console.log(fruits)
+
+
+// using names and marks
+var ramesh=30
+var suresh=70
+var pinky=88
+
+console.log(ramesh)
+
+console.log(suresh)
+
+console.log(pinky)
+
