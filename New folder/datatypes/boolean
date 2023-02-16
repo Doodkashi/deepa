@@ -1,0 +1,41 @@
+// a is equal to b
+let a=7
+let b=9
+
+console.log(a==b)
+
+// w is equal to x
+let w=8
+let x=8
+
+console.log(w==x)
+
+// m is less then n
+let m=19
+let n=20
+
+console.log(m<n)
+
+// p is not equal to r
+let p=100
+let r=200
+
+console.log(p!=r)
+
+// s is equal to t
+let s="8"
+let t="8"
+
+console.log(s===t)
+
+// k is equal to l
+let k=9
+let l="9"
+
+console.log(k===l)
+
+// g is greater than h
+let g=0
+let h=1
+
+console.log(g>h)
