@@ -1,0 +1,28 @@
+// here name is using for loop in
+let name=["gayathri"]
+
+console.log(name)
+
+
+// x,y,z variables are added
+let x=3;
+let y=4;
+let z=7;
+
+console.log(x+y+z)
+
+console.log(x)
+
+console.log(y)
+
+console.log(z)
+
+// here fruit is using for loop in
+let fruit="orange"
+
+console.log(fruit)
+
+// marks are using for loop in
+let marks=[30,40,50,60,70,80]
+
+console.log(marks)
